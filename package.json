@@ -1,6 +1,6 @@
 {
   "name": "boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Font end boilerplate with: webpack, typescript, postcss, html extraction, file loader, tailwind css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
